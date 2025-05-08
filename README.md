@@ -30,7 +30,6 @@ Hello! I’m **AmirHossein**, known as **MrSharp** — a programmer, developer, 
 ## 📊 GitHub Stats
 
 ![MrSharp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSharp&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSharp&layout=compact&theme=tokyonight)
 
 ---
 
