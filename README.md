@@ -10,7 +10,9 @@ Hello! I’m **AmirHossein**, known as **MrSharp** — a programmer, developer, 
 ## 💼 About Me
 
 - 💻 Expert in:  
-  `C#`, `ASP.NET MVC`, `C# Windows Forms`, `HTML/CSS`, `AJAX`, and any skill required to get the job done.
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.Net MVC](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white), ![C# Windows Form](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![HTML/CSS](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AJAX](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Game ReMastering](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+
+ and any skill required to get the job done.
 - 🏢 Founder at [ShirdalGroup.ir](https://shirdalgroup.ir)
 - 📍 Based in Maragheh, Iran  
 - 🎮 Remastering nostalgic games from the golden era.
@@ -29,7 +31,8 @@ Hello! I’m **AmirHossein**, known as **MrSharp** — a programmer, developer, 
 
 ## 📊 GitHub Stats
 
-![MrSharp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiirsharp&show_icons=true&theme=tokyonight) 
+![](https://github-readme-stats.vercel.app/api?username=amiirsharp&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amiirsharp&theme=dark&hide_border=true)
 
 ---
 
