@@ -10,7 +10,30 @@ Hello! I’m **AmirHossein**, known as **MrSharp** — a programmer, developer, 
 ## 💼 About Me
 
 - 💻 Expert in:  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.Net MVC](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C# Windows Form](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AJAX](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Game ReMastering](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+### 💻 Expert in:
+
+### 💻 Expert in:
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-239120?style=for-the-badge&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Game Remastering](https://img.shields.io/badge/Game%20Remastering-D32936?style=for-the-badge&logo=riotgames&logoColor=white)
+![AI Projects](https://img.shields.io/badge/AI_Projects-6A1B9A?style=for-the-badge&logo=openai&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-00C853?style=for-the-badge&logo=google&logoColor=white)
+![IT Teaching](https://img.shields.io/badge/Teaching-607D8B?style=for-the-badge&logo=googleclassroom&logoColor=white)
+
+
+
 
  and any skill required to get the job done.
 - 🏢 Founder at [ShirdalGroup.ir](https://shirdalgroup.ir)
