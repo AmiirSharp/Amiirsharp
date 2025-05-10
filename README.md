@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f39f9338-1f60-49e8-afeb-0566fbb8931e)# 👑 MrSharp
+# 👑 MrSharp
 
 > The pain or pleasure of what you did won't last,  
 > but the pride or shame of it surely will.
